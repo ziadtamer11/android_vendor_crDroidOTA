@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Lup Gabriel (gwolfu)",
+			"oem": "OnePlus",
+			"device": "OnePlus 9 Pro",
+			"filename": "crDroidAndroid-15.0-20241031-lemonadep-v11.0-BETA-local.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/lemonadep/11.x/crDroidAndroid-15.0-20241031-lemonadep-v11.0-BETA-local.zip/download",
+			"timestamp": 1730387355,
+			"md5": "dcbcd77c069829887c0accad7aa3132d",
+			"sha256": "aa8bc876143810b8aeb113a1d6b259da07c2ded17141f48f55c2503701401bf3",
+			"size": 1765041413,
+			"version": "11.0",
+			"buildtype": "BETA",
+			"forum": "https://xdaforums.com/t/4639597",
+			"gapps": "https://sourceforge.net/projects/crdroid/files/gapps/",
+			"firmware": "https://sourceforge.net/projects/crdroid/files/lemonadep/11.x/firmware/OnePlus%209%20Pro%2013.1.0.593%28EX01%29%20Firmware%20flasher.zip/download",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/crdroid/files/lemonadep/11.x/recovery/",
+			"paypal": "https://paypal.me/gwolf2u",
+			"telegram": "https://t.me/crDroidOP9",
+			"dt": "https://github.com/crdroidandroid/android_device_oneplus_lemonadep",
+			"common-dt": "https://github.com/crdroidandroid/android_device_oneplus_sm8350-common",
+			"kernel": "https://github.com/crdroidandroid/android_kernel_oneplus_sm8350"
+		}
+	]
+}
