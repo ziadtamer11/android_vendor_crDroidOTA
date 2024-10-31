@@ -1,8 +1,7 @@
 Highlights & Device Specific Changes:
 Build type: BETA
-Device: OnePlus 9 (lemonadep)
+Device: OnePlus 9 (lemonade)
 Device maintainer: Lup Gabriel (gwolfu)
 
 ===== 31 October, 2024 =====
-
 - initial BETA release
