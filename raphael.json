@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Hildo Boerboom (firebird11)",
+			"oem": "Redmi",
+			"device": "Mi 9T Pro",
+			"filename": "crDroidAndroid-15.0-20241031-raphael-v11.0-BETA.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/raphael/11.x/crDroidAndroid-15.0-20241031-raphael-v11.0-BETA.zip/download",
+			"timestamp": 1730403456,
+			"md5": "979efb1bd5a44d23669a896c70cc14b7",
+			"sha256": "7ae9dbb4d3ed8eb05ff87145e9b78e0f67e4b28424b9044bc5cdecd82a5d7542",
+			"size": 1814431500,
+			"version": "11.0",
+			"buildtype": "BETA",
+			"forum": "https://xdaforums.com/t/rom-15-raphael-crdroid-v11-0-beta-official-31-10-24.4700716/",
+			"gapps": "https://sourceforge.net/projects/crdroid/files/gapps/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/crdroid/files/raphael/10.x/recovery/",
+			"paypal": "https://www.paypal.me/firebird11",
+			"telegram": "https://t.me/crDroid_Xiaomi_MI9T_Pro",
+			"dt": "https://github.com/crdroidandroid/android_device_xiaomi_raphael",
+			"common-dt": "",
+			"kernel": "https://github.com/crdroidandroid/android_kernel_xiaomi_sm8150/tree/15.0-raphael"
+		}
+	]
+}
