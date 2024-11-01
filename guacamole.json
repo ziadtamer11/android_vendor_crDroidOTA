@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Lup Gabriel (gwolfu)",
+			"oem": "OnePlus",
+			"device": "OnePlus 7 Pro",
+			"filename": "crDroidAndroid-15.0-20241101-guacamole-v11.0-BETA-local.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/guacamole/11.x/crDroidAndroid-15.0-20241101-guacamole-v11.0-BETA-local.zip/download",
+			"timestamp": 1730438803,
+			"md5": "2a6266ebce33a4ec80e58c7af50a1187",
+			"sha256": "85ce05fa25b066fd82e467100fe4ed6da240807ae786444123554759e63f43be",
+			"size": 1247972712,
+			"version": "11.0",
+			"buildtype": "BETA",
+			"forum": "https://xdaforums.com/t/4700789",
+			"gapps": "https://sourceforge.net/projects/crdroid/files/gapps/",
+			"firmware": "https://sourceforge.net/projects/crdroid/files/guacamole/11.x/firmware/OP7Pro%20firmware%20flash%20tool%20H.41.zip/download",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/crdroid/files/guacamole/11.x/recovery/",
+			"paypal": "https://paypal.me/gwolf2u",
+			"telegram": "https://t.me/crDroidOP7Pro",
+			"dt": "https://github.com/crdroidandroid/android_device_oneplus_guacamole",
+			"common-dt": "https://github.com/crdroidandroid/android_device_oneplus_sm8150-common",
+			"kernel": "https://github.com/crdroidandroid/android_kernel_oneplus_sm8150"
+		}
+	]
+}
