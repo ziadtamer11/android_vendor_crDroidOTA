@@ -1,0 +1,7 @@
+Highlights & Device Specific Changes:
+Build type: BETA
+Device: OnePlus 7T PRO (hotdog)
+Device maintainer: ShEV (ShevT)
+
+===== 20241101 =====
+- initial BETA release

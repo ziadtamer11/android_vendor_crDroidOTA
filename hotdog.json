@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "ShEV (ShevT)",
+			"oem": "OnePlus",
+			"device": "OnePlus 7T Pro",
+			"filename": "crDroidAndroid-15.0-20241101-hotdog-v11.0-BETA.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/hotdog/11.x/crDroidAndroid-15.0-20241101-hotdog-v11.0-BETA.zip/download",
+			"timestamp": 1730481265,
+			"md5": "06bdc15c3cfbced88571773ec85166ae",
+			"sha256": "3fbc953809aea2e8b47a37b4472f247ec963e70ccb3f2e7746af45974afb4304",
+			"size": 1373894157,
+			"version": "11.0",
+			"buildtype": "BETA",
+			"forum": "https://xdaforums.com/t/4700873/",
+			"gapps": "https://sourceforge.net/projects/crdroid/files/gapps/",
+			"firmware": "https://sourceforge.net/projects/crdroid/files/hotdog/11.x/firmware/",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/crdroid/files/hotdog/11.x/recovery/",
+			"paypal": "https://paypal.me/crdroidandroid",
+			"telegram": "https://t.me/crdroid9_hotdog",
+			"dt": "https://github.com/crdroidandroid/android_device_oneplus_hotdog",
+			"common-dt": "https://github.com/crdroidandroid/android_device_oneplus_sm8150-common",
+			"kernel": "https://github.com/crdroidandroid/android_kernel_oneplus_sm8150"
+		}
+	]
+}
