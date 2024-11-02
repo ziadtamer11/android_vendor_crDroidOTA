@@ -1,0 +1,18 @@
+Highlights & Device Specific Changes:
+Build type: Weekly
+Device: Pixel 9 Pro XL (komodo)
+Device maintainer: Pranav Vashi (neobuddy89)
+
+Highlights & Device Specific Changes:
+
+==================================
+2nd November, 2024
+
+* Added customization for statusbar padding
+* komodo: Fixed statusbar rounded-corner padding
+* komodo: Re-enabled and fixed PixelDisplayService crash
+
+==================================
+31st October, 2024
+
+* Initial build
