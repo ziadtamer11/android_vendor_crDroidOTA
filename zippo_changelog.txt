@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: BETA
+Device: Lenovo Z6 Pro (zippo)
+Device maintainer: Chema Funtan (ChemaF)
+Required firmware: ZUI CN 12.5.365
+
+===== 02 Nov 2024 =====
+
+- Initial BETA release for crDroid 11
