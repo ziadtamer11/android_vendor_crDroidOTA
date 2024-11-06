@@ -3,5 +3,14 @@ Build type: BETA
 Device: OnePlus 7T PRO (hotdog)
 Device maintainer: ShEV (ShevT)
 
+===== 20241106 =====
+- kernel: Update to 4.14.355
+- kernel: Merge codelinaro LA.UM.9.1.r1-16400-SMxxx0.QSSI14.0 changes
+- Fix paddings of the bottom shortcuts on the lockscreen
+- Speedup ART
+- Speedup fingerprint
+- Other improvements
+- Updated translations
+
 ===== 20241101 =====
 - initial BETA release
