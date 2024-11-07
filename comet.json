@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Pranav Vashi (neobuddy89)",
+			"oem": "Google",
+			"device": "Pixel 9 Pro Fold",
+			"filename": "crDroidAndroid-15.0-20241107-comet-v11.0-BETA.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/comet/11.x/crDroidAndroid-15.0-20241107-comet-v11.0-BETA.zip/download",
+			"timestamp": 1730986275,
+			"md5": "18080ed19c6437db9a3f4946bc86ab8a",
+			"sha256": "626fe118fec0aef75884eb73b2ec16afb0194537840df679e79852e7f84cd4ba",
+			"size": 1938287265,
+			"version": "11.0",
+			"buildtype": "Weekly",
+			"forum": "https://xdaforums.com/t/rom-15-pixel-9-pro-fold-crdroid-v11-official.4701754/",
+			"gapps": "https://nikgapps.com/crdroid-official",
+			"firmware": "https://sourceforge.net/projects/crdroid/files/comet/11.x/recovery",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/crdroid/files/comet/11.x/recovery",
+			"paypal": "https://www.paypal.com/paypalme/neobuddy89",
+			"telegram": "https://t.me/crDroidPixel9",
+			"dt": "https://github.com/crdroidandroid/android_device_google_comet",
+			"common-dt": "https://github.com/crdroidandroid/android_device_google_zumapro",
+			"kernel": "https://android.googlesource.com/device/google/comet-kernels/6.1"
+		}
+	]
+}
