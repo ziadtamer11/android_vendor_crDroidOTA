@@ -3,5 +3,27 @@ Build type: BETA
 Device: OnePlus 9 (lemonade)
 Device maintainer: Lup Gabriel (gwolfu)
 
+===== 10 November, 2024 =====
+
+- Updated to November SPL (android-15.0.0_r5)
+- Fixed SystemUI memory leak caused by UDFPS settings
+- Fixed MediaPlayer raw pointer usage
+- Fixed keyboard layout in some use cases
+- Fixed crash in setting time zone
+- Fixed UI for Settings categories
+- Backgrounds: Import crDroid wallpapers
+- SystemUI: Do not refresh theme on battery style changes
+- SystemUI: Apply statusbar extra padding to lockscreen
+- SystemUI: Allow tuning extra padding for statusbar layout
+- SystemUI: Fix colored icons going blank
+- crDroid Settings: Move Network Traffic settings
+- crDroid Settings: Update setting limits for pulse solid renderer
+- Updated Recorder
+- Updated Glimpse
+- Updated Aperture
+- Updated Jelly
+- Updated ExactCalculator
+- Updated translations
+
 ===== 31 October, 2024 =====
 - initial BETA release
