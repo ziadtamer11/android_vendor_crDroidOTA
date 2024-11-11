@@ -6,6 +6,15 @@ Device maintainer: Pranav Vashi (neobuddy89)
 Highlights & Device Specific Changes:
 
 ==================================
+11th November, 2024
+
+* Android November 2024 Security Update
+* Added UDFPS icon styles and animations
+* Fixed QS theming on light theme
+* Various fixes and improvements
+* Increased partition reserved sizes for full gapps variant
+
+==================================
 2nd November, 2024
 
 * Added customization for statusbar padding
