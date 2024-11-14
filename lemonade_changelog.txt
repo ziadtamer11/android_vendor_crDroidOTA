@@ -3,6 +3,21 @@ Build type: BETA
 Device: OnePlus 9 (lemonade)
 Device maintainer: Lup Gabriel (gwolfu)
 
+===== 14 November, 2024 =====
+!!! WARNING WARNING WARNING !!!
+This update requires firmware 14.0.0.720(EX01)
+Download firmware flash tool, boot to bootloader, install it then sideload crdroid.zip
+If had gapps, also reboot to recovery after crdroid.zip sideload and sideload gapps.zip as per update instructions
+
+- Updated firmware to 14.0.0.720(EX01)
+- SystemUI: Fixed colored icons going blank
+- Fixed Wi-Fi privacy screen crashing when AP name has special characters
+- Fixed private Space handling in Passwords & accounts > Additional services
+- Added per-connection Wi-Fi MAC address randomization option
+- Fixed some Dialer issues
+- Fixed some UDFPS issues
+- Updated Aperture
+
 ===== 10 November, 2024 =====
 
 - Updated to November SPL (android-15.0.0_r5)
