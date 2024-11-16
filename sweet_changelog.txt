@@ -6,6 +6,15 @@ Device maintainer: Pranav Vashi (neobuddy89)
 Highlights & Device Specific Changes:
 
 ==================================
+11th November, 2024
+
+* Android November 2024 Security Update
+* Allow setting upto 6 QS columns in landscape
+* Add option to set per-connection WiFi Mac address randomization
+* Rework network traffic settings
+* Various fixes and improvements
+
+==================================
 4th November, 2024
 
 * Initial build
