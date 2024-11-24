@@ -3,6 +3,32 @@ Build type: BETA
 Device: OnePlus 7T PRO (hotdog)
 Device maintainer: ShEV (ShevT)
 
+===== 20241124 =====
+- Update Adreno driver to 786 version
+- GameSpace: Prevent duplicate instances of gamebar
+- GameSpace: Reduce text size for title and clock (Fix 24h format)
+- lmkd changes
+- InputMethodUtils: Fix system bootloop when no IME found
+- SystemUI: Sync power menu and restart menu layout
+- Settings: Allow showing Ambient instead of fully waking
+- Settings: Add missing animations from google
+- Bluetooth: Fix BT noise issue during startup
+- Bluetooth: BondStateMachine: Fix NPE on some devices
+- Fixed Profiles crash for Bluetooth permission
+- DeskClock: Add screensaver display options
+- The Twelve player has been updated
+- Implement ambient music support
+- Fixed the integration of Twelve with the Launcher
+- Fix memory leaks on quickstep
+- Fixed launcher crash in certain scenarios
+- Added setting to customize clipboard auto clear timeout for privacy 
+- Fixed layout for QS Header pack selection
+- Fixes for statusbar extra padding customization
+- Hide Now Playing. This only works on Pixel devices
+- Android WebView 131.0.6778.81
+- Updated translations
+- Some other fixes and improvements
+
 ===== 20241116 =====
 - Added UDFPS icons
 - Fixes the problem of no sound during a VoIP call and the arrival of a notification at this time.
