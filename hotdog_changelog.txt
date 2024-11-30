@@ -8,6 +8,7 @@ Device maintainer: ShEV (ShevT)
 - Added Pixel Framework
 - fixup! Expose clipboard auto clear setting
 - Added Sidebar. Quickly open apps in a floating window
+- Added WiFi Aware support
 - Added our own lmkd (low memory manager)
 - Small Twelve (audio player) updates
 - Updated Recorder, Jelly, Glimpse, Aperture
