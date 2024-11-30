@@ -3,6 +3,15 @@ Build type: BETA
 Device: OnePlus 9 (lemonade)
 Device maintainer: Lup Gabriel (gwolfu)
 
+===== 29 November, 2024 =====
+
+- Added Pixel Framework
+- SystemUI: Introduce 5G toggle in internet connectivity dialog
+- Added our own lmkd (low memory manager)
+- Small Twelve (audio player) updates
+- Updated Recorder, Jelly, Glimpse, Aperture
+- Removed smart pixels support (seems people don't read the note, so rather remove it)
+- Updated translations
 
 ===== 24 November, 2024 =====
 
