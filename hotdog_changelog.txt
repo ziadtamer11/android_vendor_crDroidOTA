@@ -3,6 +3,18 @@ Build type: BETA
 Device: OnePlus 7T PRO (hotdog)
 Device maintainer: ShEV (ShevT)
 
+===== 20241130 =====
+- The device tree has been completely reworked
+- Added Pixel Framework
+- fixup! Expose clipboard auto clear setting
+- Added Sidebar. Quickly open apps in a floating window
+- Added our own lmkd (low memory manager)
+- Small Twelve (audio player) updates
+- Updated Recorder, Jelly, Glimpse, Aperture
+- Removed smart pixels support (seems people don't read the note, so rather remove it)
+- Updated translations
+- Some other fixes and improvements
+
 ===== 20241124 =====
 - Update Adreno driver to 786 version
 - GameSpace: Prevent duplicate instances of gamebar
