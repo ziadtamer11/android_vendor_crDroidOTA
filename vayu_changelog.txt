@@ -6,6 +6,16 @@ Device maintainer: Pranav Vashi (neobuddy89)
 Highlights & Device Specific Changes:
 
 ==================================
+1st December, 2024
+
+* Added pixel framework support
+* Added toggle for smartspace on lockscreen (crdroid > lockscreen)
+* Added sidebar customization (crdroid > misc)
+* Added customization for recents double-tap on 3-button navbar (crdroid > navigation)
+* Fixed third party icon packs on launcher
+* Various fixes and improvements
+
+==================================
 23rd November, 2024
 
 * Added new revamped local Music player
