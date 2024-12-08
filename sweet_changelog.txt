@@ -6,6 +6,18 @@ Device maintainer: Pranav Vashi (neobuddy89)
 Highlights & Device Specific Changes:
 
 ==================================
+8th December, 2024
+
+* Fixed failing basic SafetyNet attestation without root (again)
+* Allow more than 1 floating window via sidebar
+* Improved attestation hooks to parse working props online
+* Improved smartspace toggle - do not hide date when smartspace disabled.
+* Improved brightness slider for QS panel
+* Fixes for clipboard auto clear settings
+* Fixes for WiFi related issues in some instances
+* Setting no action for double tap Recents will reflect stock behavior
+
+==================================
 2nd December, 2024
 
 * Added pixel framework support
