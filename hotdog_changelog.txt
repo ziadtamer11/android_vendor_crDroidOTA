@@ -3,6 +3,24 @@ Build type: BETA
 Device: OnePlus 7T PRO (hotdog)
 Device maintainer: ShEV (ShevT)
 
+===== 20241208 =====
+- Fixed voice and video calls in messengers
+- Fixed failing basic SafetyNet attestation without root (again)
+- Allow more than 1 floating window via sidebar
+- Improved attestation hooks to parse working props online
+- Improved smartspace toggle - do not hide date when smartspace disabled.
+- Improved brightness slider for QS panel
+- Fixes for clipboard auto clear settings
+- Fixes for WiFi related issues in some instances
+- Setting no action for double tap Recents will reflect stock behavior
+- Updated gesture lock for GameSpace
+- Fixed third party icon packs on launcher
+- Added toggle for smartspace on lockscreen (crdroid > lockscreen)
+- Added sidebar customization (crdroid > misc)
+- Added customization for recents double-tap on 3-button navbar (crdroid > navigation)
+- Updated translations
+- Some other fixes and improvements
+
 ===== 20241130 =====
 - The device tree has been completely reworked
 - Added Pixel Framework
