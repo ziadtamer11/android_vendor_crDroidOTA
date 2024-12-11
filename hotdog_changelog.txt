@@ -4,6 +4,15 @@ Device: OnePlus 7T PRO (hotdog)
 Device maintainer: ShEV (ShevT)
 
 ===== 20241211 =====
+!!! Attention !!!
+Now we will use a fork of KernelSU from rsuntk.
+If you have the KernelSU manager installed, you must, before updating
+the firmware, revoke the SU permission from all programs that have
+been granted root rights. You must also remove all installed
+modules and the KernelSU manager itself.
+After updating the firmware, you can reinstall the kernelSU manager.
+You can download it from this link - https://github.com/rsuntk/KernelSU/releases
+
 * KernelSU rsuntk fork
 * Settings: Backup: Apply insets properly
 * Fix incorrect switch status when user stay in NightDisplaySettings page while scheduled night lights on
