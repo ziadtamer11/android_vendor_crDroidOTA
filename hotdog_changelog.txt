@@ -3,6 +3,24 @@ Build type: BETA
 Device: OnePlus 7T PRO (hotdog)
 Device maintainer: ShEV (ShevT)
 
+===== 20241211 =====
+* KernelSU rsuntk fork
+* Settings: Backup: Apply insets properly
+* Fix incorrect switch status when user stay in NightDisplaySettings page while scheduled night lights on
+* kernel: HID: zero-initialize the report buffer
+* Audioflinger: adjust wait time for duplicating thread
+* Launcher3: Remove blur animation on app launch/exit
+* Launcher3: Disable native freeform task shortcut
+* Launcher3: Add recents shortcut for floating window
+* Launcher3: Integrate LMOFreeform to system shortcut
+* LMOFreeform : Rework freeform window design to match desktop mode specs
+* LMOFreeform: Implement material you color scheme
+* LMOFreeform: Implement veil resize effect
+* wm: Skip freeform displays from forcing desktop mode
+* fwn: fix potential leakage issues
+* Settings: Fix face enroll stack overflow
+* Some other fixes and improvements
+
 ===== 20241208 =====
 - Fixed voice and video calls in messengers
 - Fixed failing basic SafetyNet attestation without root (again)
