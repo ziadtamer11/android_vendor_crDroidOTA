@@ -6,6 +6,12 @@ Device maintainer: Pranav Vashi (neobuddy89)
 Highlights & Device Specific Changes:
 
 ==================================
+16th December, 2024
+
+* Initial Android 15 stable release
+* Various fixes and improvements
+
+==================================
 13th December, 2024
 
 * Fixed failing basic SafetyNet attestation without root (again)
