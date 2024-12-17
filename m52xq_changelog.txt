@@ -1,7 +1,10 @@
 Highlights & Device Specific Changes:
-Build type: BETA
+Build type: Monthly
 Device: Samsung M52 5G (m52xq)
 Device maintainer: alqix
+
+===== 17 December, 2024 =====
+- Stable release
 
 ===== 04 December, 2024 =====
 

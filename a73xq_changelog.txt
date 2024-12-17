@@ -1,7 +1,10 @@
 Highlights & Device Specific Changes:
-Build type: BETA
+Build type: Monthly
 Device: Samsung A73 5G (a73xq)
 Device maintainer: alqix
+
+===== 17 December, 2024 =====
+- Stable release
 
 ===== 02 December, 2024 =====
 
