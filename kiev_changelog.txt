@@ -1,7 +1,11 @@
 Highlights & Device Specific Changes:
-Build type: BETA
+Build type: Weekly
 Device: Motorola Moto G 5G
 Device maintainer: tilt-rgb
+
+== 17 December , 2024 =====
+
+- Release stable version
 
 == 14 December , 2024 =====
 
