@@ -3,6 +3,10 @@ Build type: BETA
 Device: OnePlus 7 PRO (guacamole)
 Device maintainer: Lup Gabriel (gwolfu)
 
+===== 17 December, 2024 =====
+
+- release crDroid 11
+
 ===== 29 November, 2024 =====
 
 - Added Pixel Framework
