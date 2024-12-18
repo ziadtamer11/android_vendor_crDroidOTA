@@ -6,6 +6,9 @@ Note:
     * Can be flashed via recovery like TWRP/OFOX
     * If you have any issues like frequent force close, the issue could be gapps not flashed properly
 
+Changelog:18/12/2024
+- Reworked on vibration and made stronger like crDroid 10.10 (A14)
+
 Changelog:17/12/2024
 - Source upstream Beta to Stable
 
