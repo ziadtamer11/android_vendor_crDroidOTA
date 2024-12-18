@@ -1,8 +1,11 @@
 Highlights & Device Specific Changes:
-Build type: BETA
+Build type: Monthly
 Device: Nintendo Switch (nx_tab)
 Device maintainer: Ivy (Lost-Entrepreneur439)
 Required firmware: Hekate 6.1.0
+
+===== 12-17-2024 =====
+- Initial stable release for crDroid 11
 
 ===== 12-14-2024 =====
 - nx: Explicitly set as an non-AB target
