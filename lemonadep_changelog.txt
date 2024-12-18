@@ -3,6 +3,10 @@ Build type: Weekly
 Device: OnePlus 9 (lemonadep)
 Device maintainer: Lup Gabriel (gwolfu)
 
+===== 18 December, 2024 =====
+
+- Fixed FOD animation offset
+
 ===== 17 December, 2024 =====
 
 - release crDroid 11
