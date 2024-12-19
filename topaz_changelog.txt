@@ -1,7 +1,13 @@
 Highlights & Device Specific Changes:
-Build type: BETA
+Build type: Monthly
 Device: Redmi Note 12 4G/NFC (Topaz)
 Device maintainer: Haruki Takahashi (haruki達月)
+
+===== 12-18-2024 =====
+- Update Latest Commits From Source
+- Added Sidebar Feature
+- Removed Pocket Mode Feature
+- Minor Changes from Device Tree
 
 ===== 11-07-2024 =====
 - Initial Official Support
