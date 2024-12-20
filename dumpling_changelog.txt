@@ -1,7 +1,14 @@
 Highlights & Device Specific Changes:
-Build type: BETA
+Build type: Monthly
 Device: OnePlus 5T (dumpling)
 Device maintainer: Zed (Zed9K)
+
+====================
+     20-12-2024
+====================
+- crDroid 11.0 Stable build
+- Upstream to latest changes by crDroid
+- Bug fixes
 
 ====================
      09-12-2024
