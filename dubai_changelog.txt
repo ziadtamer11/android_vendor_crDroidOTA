@@ -4,6 +4,12 @@ Device: Motorola Edge 30 (dubai)
 Device maintainer: Rakhshan (shan_rakh)
 
 ====================
+     22-12-2024
+====================
+- Enabled Blur
+- Added Kernel SU
+
+====================
      21-12-2024
 ====================
 - Added Turbo Charging Overlay
