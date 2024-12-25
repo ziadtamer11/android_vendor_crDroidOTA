@@ -3,6 +3,19 @@ Build type: Weekly
 Device: Redmi Note 13 Pro 5G / Poco X6 5G (garnet)
 Device maintainer: JYR_RC
 
+===== 25 December, 2024 =====
+
+- Synced with latest Crdroid changes as of 24 Dec,2024
+- Increase more minimum brightness level
+- Enable refresh rate controls in settings
+- Enable smart pixeles
+- Added support volume steps
+- Added toggle refresh rate in qs
+- Update pixel pitch
+- Adjust statusbar padding
+- Thanks grewal and kleidione for source base tree
+- If you do not pass basic integrity and device, restart the device and delete data from the play store and play services
+
 ===== 21 December, 2024 =====
 
 - Synced with latest Crdroid changes as of 21 Dec,2024
