@@ -6,6 +6,10 @@ Build type: Weekly
 Device: Redmi Note 12 5G / Poco X5 5G
 Device maintainer: Ishaan
 
+===== 25-12-2024 =====
+
+* Fixed offline charging
+
 ===== 24-12-2024 =====
 
 * Clean flash is required to switch from BETA to Stable build
