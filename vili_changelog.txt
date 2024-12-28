@@ -6,6 +6,9 @@ Note:
     * Can be flashed via recovery like TWRP/OFOX
     * If you have any issues like frequent force close, the issue could be gapps not flashed properly
 
+Changelog:28/12/2024
+- Disable FRP
+
 Changelog:26/12/2024
 - Source upstream
 - Fixed cracking sound on speaker mode with Dolby turned on
