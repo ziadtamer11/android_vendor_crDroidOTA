@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 10 (mojito)
+Device maintainer: Anush02198
+
+====================
+    28-12-2024
+====================
++ Initial A15 build
