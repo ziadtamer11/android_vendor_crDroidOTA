@@ -6,6 +6,12 @@ Build type: Weekly
 Device: Redmi Note 12 5G / Poco X5 5G
 Device maintainer: Ishaan
 
+===== 28-12-2024 =====
+
+* Fixed lockscreen charging info
+* Remove "SIM x is HD capable" message
+* Update pinner service for pixel_fw
+
 ===== 25-12-2024 =====
 
 * Fixed offline charging
