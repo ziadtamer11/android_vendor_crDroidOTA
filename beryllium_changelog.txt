@@ -3,6 +3,13 @@ Build type: Weekly
 Device: Pocophone F1 (beryllium)
 Device maintainer: Lup Gabriel (gwolfu)
 
+===== 19 December, 2024 =====
+
+- Initial crDroid 11.1 release
+- Updated security patches to January 2025 (android-15.0.0_r10)
+- Fully rebased on top of QPR1 
+- Lots of other changes to track and write
+
 ===== 17 December, 2024 =====
 
 - release crDroid 11

@@ -1,28 +1,28 @@
 {
-	"response": [
-		{
-			"maintainer": "Lup Gabriel (gwolfu)",
-			"oem": "OnePlus",
-			"device": "OnePlus 7 Pro",
-			"filename": "crDroidAndroid-15.0-20241217-guacamole-v11.0.zip",
-			"download": "https://sourceforge.net/projects/crdroid/files/guacamole/11.x/crDroidAndroid-15.0-20241217-guacamole-v11.0.zip/download",
-			"timestamp": 1734433156,
-			"md5": "23d33eb6b445d1ac0e04a91c7041ced4",
-			"sha256": "9790811d3056f494592194f37be75e52e259071eff69f55da7fe2bb7584a82c1",
-			"size": 1289564323,
-			"version": "11.0",
-			"buildtype": "Weekly",
-			"forum": "https://xdaforums.com/t/4700789",
-			"gapps": "https://sourceforge.net/projects/crdroid/files/gapps/",
-			"firmware": "https://sourceforge.net/projects/crdroid/files/guacamole/11.x/firmware/OP7Pro%20firmware%20flash%20tool%20H.41.zip/download",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "https://sourceforge.net/projects/crdroid/files/guacamole/11.x/recovery/",
-			"paypal": "https://paypal.me/gwolf2u",
-			"telegram": "https://t.me/crDroidOP7Pro",
-			"dt": "https://github.com/crdroidandroid/android_device_oneplus_guacamole",
-			"common-dt": "https://github.com/crdroidandroid/android_device_oneplus_sm8150-common",
-			"kernel": "https://github.com/crdroidandroid/android_kernel_oneplus_sm8150"
-		}
-	]
+    "response": [
+        {
+            "maintainer": "Lup Gabriel (gwolfu)",
+            "oem": "OnePlus",
+            "device": "OnePlus 7 Pro",
+            "filename": "crDroidAndroid-15.0-20250117-guacamole-v11.1-BETA.zip",
+            "download": "https://sourceforge.net/projects/crdroid/files/guacamole/11.x/crDroidAndroid-15.0-20250117-guacamole-v11.1-BETA.zip/download",
+            "timestamp": 1737088290,
+            "md5": "48a4abd6f0c16322298a29383aff0582",
+            "sha256": "b4e802116e6af22a845f0df3c9f41c4ea08c76f2bb095084734588f4ac9dd03a",
+            "size": 1298866256,
+            "version": "11.1",
+            "buildtype": "Weekly",
+            "forum": "https://xdaforums.com/t/4700789",
+            "gapps": "https://sourceforge.net/projects/crdroid/files/gapps/",
+            "firmware": "https://sourceforge.net/projects/crdroid/files/guacamole/11.x/firmware/OP7Pro%20firmware%20flash%20tool%20H.41.zip/download",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "https://sourceforge.net/projects/crdroid/files/guacamole/11.x/recovery/",
+            "paypal": "https://paypal.me/gwolf2u",
+            "telegram": "https://t.me/crDroidOP7Pro",
+            "dt": "https://github.com/crdroidandroid/android_device_oneplus_guacamole",
+            "common-dt": "https://github.com/crdroidandroid/android_device_oneplus_sm8150-common",
+            "kernel": "https://github.com/crdroidandroid/android_kernel_oneplus_sm8150"
+        }
+    ]
 }

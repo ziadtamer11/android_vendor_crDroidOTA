@@ -3,6 +3,17 @@ Build type: Weekly
 Device: OnePlus 9 (lemonade)
 Device maintainer: Lup Gabriel (gwolfu)
 
+===== 19 December, 2024 =====
+!!! WARNING WARNING WARNING !!!
+This update requires firmware 14.0.0.730(EX01)
+Download firmware flash tool, boot to bootloader, install it then sideload crdroid.zip
+If had gapps, also reboot to recovery after crdroid.zip sideload and sideload gapps.zip as per update instructions
+
+- Initial crDroid 11.1 release
+- Updated security patches to January 2025 (android-15.0.0_r10)
+- Fully rebased on top of QPR1 
+- Lots of other changes to track and write
+
 ===== 17 December, 2024 =====
 
 - release crDroid 11
