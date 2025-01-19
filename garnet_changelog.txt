@@ -3,6 +3,30 @@ Build type: Weekly
 Device: Redmi Note 13 Pro 5G / Poco X6 5G (garnet)
 Device maintainer: JYR_RC
 
+===== 19 January, 2025 =====
+
+- Synced with latest Crdroid changes as of 19 Jan,2025
+- CrDroid 11.1 (QPR1) Stable Release
+- January security patch
+- Import OnePlus Dolby
+- Fixed dolby vision HDR
+- Fixed magic editor google photos
+- Added update netflix props
+- Set dex2oat thread count and cpuset
+- Label more property camera
+- Disable slow blur effect to avoid laggish blur effect
+- Add a property to enable prefetching video
+- Remove omx libraries
+- Disable OMX service
+- Defer refresh rate changes when screen is off
+- Import media codecs parrot
+- Thanks grewal for source base tree
+- Thanks Sokolataki1 For testing
+- If you do not pass basic integrity and device, restart the device and delete data from the play store and play services
+
+Note:
+Ota is supported but a clean installation is required
+
 ===== 25 December, 2024 =====
 
 - Synced with latest Crdroid changes as of 24 Dec,2024
