@@ -3,7 +3,7 @@ Build type: Weekly
 Device: OnePlus 9 (lemonade)
 Device maintainer: Lup Gabriel (gwolfu)
 
-===== 19 December, 2024 =====
+===== 19 January, 2025 =====
 !!! WARNING WARNING WARNING !!!
 This update requires firmware 14.0.0.730(EX01)
 Download firmware flash tool, boot to bootloader, install it then sideload crdroid.zip
