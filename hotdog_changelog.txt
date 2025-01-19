@@ -3,6 +3,10 @@ Build type: Weekly
 Device: OnePlus 7T PRO (hotdog)
 Device maintainer: ShEV (ShevT)
 
+===== 20250119 =====
+- crDroid 11.1 (QPR1) Stable Release
+- Updated to January ASB
+
 ===== 20241216 =====
 - crDroid 11 Stable Release
 - Settings: Fix face enroll stack overflow
