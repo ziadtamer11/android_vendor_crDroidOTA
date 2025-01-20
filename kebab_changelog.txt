@@ -4,11 +4,17 @@ Device: OnePlus 8T (kebab)
 Device maintainer: Bojan Tanasic (bojantanasic)
 
 ====================
-     12-26-2024
+     01-19-2025
 ====================
  
-- Update default webview to 131.0.6778.200
-- Update kernel to 4.19.324
-- Update kernel to ASB-2024-12-05_4.19-stable (December security patch for kernel)
-- Update spoof for PUBG and Tencent Games (Unlocks 120fps in BGMI and other Tencent games)
-
+- Initial Android 15 QPR1 + January 2025 Security Update
+- Update kernel to 4.19.325
+- Update kernel to ASB-2025-01-05_4.19-stable (January security patch for kernel)
+- Switch to split shade QS for landscape mode
+- Added toggle to allow application downgrade (crdroid > misc)
+- Added more weather elements for custom weather on lockscreen (crdroid > lockscreen)
+- Switching between smartspace and custom weather requires SystemUI/System restart
+- Allow disabling private DNS for VPN (Settings > Network > DNS)
+- Added Circle to Search support - Requires Google Search (Launcher settings > misc)
+- Reworked QS theme color
+- Various fixes and improvements
