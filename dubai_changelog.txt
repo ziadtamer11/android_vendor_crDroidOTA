@@ -4,6 +4,14 @@ Device: Motorola Edge 30 (dubai)
 Device maintainer: Rakhshan (shan_rakh)
 
 ====================
+     19-01-2025
+====================
+- Added Viper4Fx 
+- November Vendor Security Patch
+- January Android Security Patch
+- Initial crDroid 11.1 Stable (QPR1)
+
+====================
      22-12-2024
 ====================
 - Enabled Blur
