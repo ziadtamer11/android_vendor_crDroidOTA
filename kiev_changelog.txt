@@ -3,6 +3,12 @@ Build type: Weekly
 Device: Motorola Moto G 5G
 Device maintainer: tilt-rgb
 
+== 20 December , 2025 =====
+
+- Switched to KernelSu Next
+- Updated Charger blobs from Edge 30
+- Latest Changes from crDroid
+
 == 17 December , 2024 =====
 
 - Release stable version
