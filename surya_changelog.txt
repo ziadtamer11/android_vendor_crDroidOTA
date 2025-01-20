@@ -4,6 +4,14 @@ Device: POCO X3/NFC (surya)
 Device maintainer: shoya0x00
 
 ====================
+     19-01-2025
+====================
+- Initial v11.1 release
+- Upstream kernel to 4.14.355
+- KernelSU Next instead of KernelSU
+- Misc Changes and Improvement
+
+====================
      21-12-2024
 ====================
 - Initial A15 stable release
