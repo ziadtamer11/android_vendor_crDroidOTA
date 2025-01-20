@@ -6,7 +6,7 @@ Device maintainer: Pranav Vashi (neobuddy89)
 Highlights & Device Specific Changes:
 
 ==================================
-20th December, 2024
+20th January, 2025
 
 * Initial Android 15 QPR1 + January 2025 Security Update
 * Switch to split shade QS for landscape mode
