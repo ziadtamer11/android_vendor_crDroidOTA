@@ -6,6 +6,12 @@ Device maintainer: Bobby Panarisi (xda:306bobby git:306bobby-android)
 Highlights & Device Specific Changes:
 =====================================
 
+===== 20th January, 2025 =====
+
+- crDroid 11.1 (QPR1) Release
+- ViperFX4Android support
+- Circle to Search properly implemented, enable in crHome Misc. settings
+
 ===== 24th December, 2024 =====
 
 - Stable crDroid 11.0 release
