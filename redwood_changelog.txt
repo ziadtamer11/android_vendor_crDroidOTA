@@ -3,6 +3,15 @@ Build type: Weekly
 Device: Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) 
 Device maintainer: priyanshu
 
+
+====== 21-01-2025 ======
+* QPR1 with January 2025 security patches
+* Disabled OMX
+* Enhanced Dolby sound quality for a better audio experience.
+* Patch algo jni lib to use correct Surface::connect method ( it fixes 1.6mp issue )
+* Fixed duplicate / double number parsing issue in dialer.
+* Fixed IR & Vowifi issue 
+
 ====== 18-12-2024 ======
 * Synced with latest crDroid source.
 * Shipped with latest global firmware
