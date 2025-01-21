@@ -7,6 +7,10 @@ Required firmware: Android 14
 
 ===== 20250119 =====
 - crDroid 11.1 (QPR1) Stable Release
+- Import missing audio vendor and odm props
+- rootdir: Set restricted cpuset to the same CPUs as system-background
+- parts: ThermalTileService: Enable Battery saver when battery thermal profile is set 
+- parts: ThermalTileService: Drop game thermal profile mode
 - Updated to January ASB
 - updated miui camera app
 - fixed 4k in miui camera 
@@ -24,10 +28,57 @@ Required firmware: Android 14
 - Added xiaomi parts Thermal profile
 - Added pocket detection service's 
 - Improved display colour saturation 
-- updated prebuilt kernel / blobs to from
+- updated prebuilt kernel / blobs to from V816.0.10.0.UNPMIXM
 
 
-V816.0.10.0.UNPMIXM
+====================
+     01-21-2025
+====================
+
+   * packages/apps/Jelly
+f144ca5 Jelly: Use ColorUtils#calculateLuminance() to detect light color
+b3c55e3 Jelly: handle PermissionRequest (RESOURCE_PROTECTED_MEDIA_ID)
+2ca24f8 Jelly: handle PermissionRequest (RESOURCE_VIDEO_CAPTURE and RESOURCE_AUDIO_CAPTURE)
+9b94843 Jelly: PWA basic support
+
+   * packages/apps/Twelve
+cac10ea Twelve: NowPlayingFragment: Use the correct URI for audio actions
+
+====================
+     01-20-2025
+====================
+
+   * build/make
+722f3a6c8d build: handle missing files in remove_broken_build_tools
+f28828610a build: Remove broken prebuilts
+648cbe29ef build: execute changelog generator script
+f5f9349705 envsetup.sh: Setup and enable ccache
+e5f0194bce core: Use $(PRODUCT_DEVICE) for auto generated RRO names
+2252961b6a Revert "Add DeviceAsWebcam to general handheld_system"
+871d6b7d82 combo: Add kryo585 architecture to known v8 cores
+d99b47b079 combo: Add kryo585|785 architectures to known v8-2a cores
+f224ab9cf3 build: dont include tasks from tests and platform_testing
+0b5528317c combo: Add cortex-a76 to known v8-2a cores
+03774663a1 build: Add ANSI name and build info
+76e0afa958 build: Always use release-keys
+22e5fd54ac build: Add backuptool by default
+062dc37888 Install adb_keys into recovery
+
+   * frameworks/base
+dbe8d2e58c7f avoid deadLock caused by onAuthenticationPrompt()
+2ef58f8b95fb base: Restore system dynamic colors for QS theme
+
+   * packages/apps/Messaging
+0b7bb49 Messaging: Replace AOSP illustrations
+28b9c1d Messaging: Make SMS delivered and MMS sent intents mutable
+
+   * vendor/addons
+7ed7d6c addons: BlackTheme: Make shades little more darker
+
+   * vendor/lineage
+f1b0574b android: merge_dtbs: Respect miboard-id while merging
+
+
 ===== 18-12-2024 =====
 - crDroid 11 Stable Release
 - Settings: Fix face enroll stack overflow
