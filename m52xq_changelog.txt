@@ -3,7 +3,13 @@ Build type: Monthly
 Device: Samsung M52 5G (m52xq)
 Device maintainer: alqix
 
+===== 20 January, 2025 =====
+
+- Inital crDroid 11.1 release
+- January Android Security Patch
+
 ===== 17 December, 2024 =====
+
 - Stable release
 
 ===== 04 December, 2024 =====

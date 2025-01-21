@@ -1,28 +1,28 @@
 {
-	"response": [
-		{
-			"maintainer": "alqix",
-			"oem": "Samsung",
-			"device": "Samsung M52 5G",
-			"filename": "crDroidAndroid-15.0-20241217-m52xq-v11.0.zip",
-			"download": "https://sourceforge.net/projects/crdroid/files/m52xq/11.x/crDroidAndroid-15.0-20241217-m52xq-v11.0.zip/download",
-			"timestamp": 1734401129,
-			"md5": "b077653b48fe44c9a3eabf7e50afc58f",
-			"sha256": "a4c0082205e314406fd8092e8827eb28c859ce0e0b1d659700feaab48a81c7dd",
-			"size": 1471997699,
-			"version": "11.0",
-			"buildtype": "Monthly",
-			"forum": "https://xdaforums.com/t/rom-15-0-encryption-unofficial-crdroid-11-for-m52-5g.4700843/",
-			"gapps": "https://nikgapps.com/crdroid-official",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "https://sourceforge.net/projects/crdroid/files/m52xq/11.x/recovery/20241217-recovery.img/download",
-			"paypal": "",
-			"telegram": "https://t.me/alqnisot",
-			"dt": "https://github.com/crdroidandroid/android_device_samsung_m52xq",
-			"common-dt": "https://github.com/crdroidandroid/android_device_samsung_sm7325-common",
-			"kernel": "https://github.com/crdroidandroid/android_kernel_samsung_sm7325"
-		}
-	]
+    "response": [
+        {
+            "maintainer": "alqix",
+            "oem": "Samsung",
+            "device": "Samsung M52 5G",
+            "filename": "crDroidAndroid-15.0-20250120-m52xq-v11.1.zip",
+            "download": "https://sourceforge.net/projects/crdroid/files/m52xq/11.x/crDroidAndroid-15.0-20250120-m52xq-v11.1.zip/download",
+            "timestamp": 1737362696,
+            "md5": "b83188962a70b9ab6b3218e01fbf630e",
+            "sha256": "2a0c1535a9fa62e0a1be91571992861315877482549273c32589ddf597362861",
+            "size": 1364256723,
+            "version": "11.1",
+            "buildtype": "Monthly",
+            "forum": "https://xdaforums.com/t/rom-15-0-encryption-official-crdroid-11-for-m52-5g.4700843/",
+            "gapps": "https://nikgapps.com/crdroid-official",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "https://sourceforge.net/projects/crdroid/files/m52xq/11.x/recovery/20250120-recovery.img/download",
+            "paypal": "",
+            "telegram": "https://t.me/alqnisot",
+            "dt": "https://github.com/crdroidandroid/android_device_samsung_m52xq",
+            "common-dt": "https://github.com/crdroidandroid/android_device_samsung_sm7325-common",
+            "kernel": "https://github.com/crdroidandroid/android_kernel_samsung_sm7325"
+        }
+    ]
 }
