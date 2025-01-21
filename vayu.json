@@ -1,28 +1,28 @@
 {
-	"response": [
-		{
-			"maintainer": "Pranav Vashi (neobuddy89)",
-			"oem": "Poco",
-			"device": "Poco X3 Pro",
-			"filename": "crDroidAndroid-15.0-20241216-vayu-v11.0.zip",
-			"download": "https://sourceforge.net/projects/crdroid/files/vayu/11.x/crDroidAndroid-15.0-20241216-vayu-v11.0.zip/download",
-			"timestamp": 1734339534,
-			"md5": "5b4b8eb8a4ccb30a3de0db556a919424",
-			"sha256": "eb0e5c79d29ba88f9f46ed7be9d61e1bf02887ac9d96090238c1550ec8c7f592",
-			"size": 1807581868,
-			"version": "11.0",
-			"buildtype": "Weekly",
-			"forum": "https://xdaforums.com/t/rom-15-0-crdroid-11-official.4701269/",
-			"gapps": "https://nikgapps.com/crdroid-official",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "https://sourceforge.net/projects/crdroid/files/vayu/11.x/recovery/",
-			"paypal": "https://www.paypal.com/paypalme/neobuddy89",
-			"telegram": "https://t.me/joinchat/5eT6QHJ9nu1kOWZk",
-			"dt": "https://github.com/crdroidandroid/android_device_xiaomi_vayu",
-			"common-dt": "https://github.com/crdroidandroid/android_device_xiaomi_sm8150-common",
-			"kernel": "https://github.com/crdroidandroid/android_kernel_xiaomi_sm8150"
-		}
-	]
+    "response": [
+        {
+            "maintainer": "Pranav Vashi (neobuddy89)",
+            "oem": "Poco",
+            "device": "Poco X3 Pro",
+            "filename": "crDroidAndroid-15.0-20250120-vayu-v11.1.zip",
+            "download": "https://sourceforge.net/projects/crdroid/files/vayu/11.x/crDroidAndroid-15.0-20250120-vayu-v11.1.zip/download",
+            "timestamp": 1737399294,
+            "md5": "289d8c46cd00d6d2017e7303f18d6db6",
+            "sha256": "83dfedbd22ad9c516abd053f2a564dc1d9bbe86d4b1f5cd1c901723c73ee6298",
+            "size": 1815834855,
+            "version": "11.1",
+            "buildtype": "Weekly",
+            "forum": "https://xdaforums.com/t/rom-15-0-crdroid-11-official.4701269/",
+            "gapps": "https://nikgapps.com/crdroid-official",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "https://sourceforge.net/projects/crdroid/files/vayu/11.x/recovery/",
+            "paypal": "https://www.paypal.com/paypalme/neobuddy89",
+            "telegram": "https://t.me/joinchat/5eT6QHJ9nu1kOWZk",
+            "dt": "https://github.com/crdroidandroid/android_device_xiaomi_vayu",
+            "common-dt": "https://github.com/crdroidandroid/android_device_xiaomi_sm8150-common",
+            "kernel": "https://github.com/crdroidandroid/android_kernel_xiaomi_sm8150"
+        }
+    ]
 }
