@@ -6,6 +6,12 @@ Device maintainer: Pranav Vashi (neobuddy89)
 Highlights & Device Specific Changes:
 
 ==================================
+22nd January, 2025
+
+* Few system improvements
+* vayu: Fix fingerprint issue on devices with different panels
+
+==================================
 20th January, 2025
 
 * Initial Android 15 QPR1 + January 2025 Security Update

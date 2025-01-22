@@ -1,28 +1,28 @@
 {
-	"response": [
-		{
-			"maintainer": "Pranav Vashi (neobuddy89)",
-			"oem": "Redmi",
-			"device": "Redmi Note 10 Pro/Max",
-			"filename": "crDroidAndroid-15.0-20241216-sweet-v11.0.zip",
-			"download": "https://sourceforge.net/projects/crdroid/files/sweet/11.x/crDroidAndroid-15.0-20241216-sweet-v11.0.zip/download",
-			"timestamp": 1734339538,
-			"md5": "6605bd5c65f423a2cb0dc8e5baac8240",
-			"sha256": "a6911ca7b0351359530a27fb48c3b19d00b13af15644dc32e252e5faf9b78914",
-			"size": 1688452619,
-			"version": "11.0",
-			"buildtype": "Weekly",
-			"forum": "https://xdaforums.com/t/rom-15-0-crdroid-11-official.4701289/",
-			"gapps": "https://nikgapps.com/crdroid-official",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "https://sourceforge.net/projects/crdroid/files/sweet/11.x/recovery/",
-			"paypal": "https://www.paypal.com/paypalme/neobuddy89",
-			"telegram": "https://t.me/crdroid_sweet",
-			"dt": "https://github.com/crdroidandroid/android_device_xiaomi_sweet",
-			"common-dt": "https://github.com/crdroidandroid/android_device_xiaomi_sm6150-common",
-			"kernel": "https://github.com/crdroidandroid/android_kernel_xiaomi_sm6150"
-		}
-	]
+    "response": [
+        {
+            "maintainer": "Pranav Vashi (neobuddy89)",
+            "oem": "Redmi",
+            "device": "Redmi Note 10 Pro/Max",
+            "filename": "crDroidAndroid-15.0-20250122-sweet-v11.1.zip",
+            "download": "https://sourceforge.net/projects/crdroid/files/sweet/11.x/crDroidAndroid-15.0-20250122-sweet-v11.1.zip/download",
+            "timestamp": 1737542252,
+            "md5": "0f9217cd9542bb76fc724be347599217",
+            "sha256": "c41fe3db48a53be3529b0ad30151fd3b03cdc2b65ad8f9a755d6c822314872e7",
+            "size": 1697309542,
+            "version": "11.1",
+            "buildtype": "Weekly",
+            "forum": "https://xdaforums.com/t/rom-15-0-crdroid-11-official.4701289/",
+            "gapps": "https://nikgapps.com/crdroid-official",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "https://sourceforge.net/projects/crdroid/files/sweet/11.x/recovery/",
+            "paypal": "https://www.paypal.com/paypalme/neobuddy89",
+            "telegram": "https://t.me/crdroid_sweet",
+            "dt": "https://github.com/crdroidandroid/android_device_xiaomi_sweet",
+            "common-dt": "https://github.com/crdroidandroid/android_device_xiaomi_sm6150-common",
+            "kernel": "https://github.com/crdroidandroid/android_kernel_xiaomi_sm6150"
+        }
+    ]
 }
