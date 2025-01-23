@@ -6,6 +6,22 @@ Build type: Weekly
 Device: Redmi Note 12 5G / Poco X5 5G
 Device maintainer: Ishaan
 
+===== 19-01-2025 =====
+
+* Initial Android 15 QPR1 + January 2025 Security Update
+* stone: Update blobs from sunstone V816.0.9.0.UMQMIXM
+* stone: Update kernel from sunstone V816.0.9.0.UMQMIXM
+* stone: wlan: Enable Optimized Power Management
+* Switch to split shade QS for landscape mode
+* Added toggle to allow application downgrade (crdroid > misc)
+* Added more weather elements for custom weather on lockscreen (crdroid > lockscreen)
+* Switching between smartspace and custom weather requires SystemUI/System restart
+* Allow disabling private DNS for VPN (Settings > Network > DNS)
+* Added Circle to Search support - Requires Google Search (Launcher settings > misc)
+* Reworked QS theme color
+* Various fixes and improvements
+* Improved overall stability and performance
+
 ===== 28-12-2024 =====
 
 * Fixed lockscreen charging info
