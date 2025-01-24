@@ -3,6 +3,15 @@ Build type: Monthly
 Device: POCO F3 (alioth)
 Device maintainer: raystef66
 
+===== 24-01-2025 =====
+
+* Initial crDroid 11.1 stable release
+* Updated to sec. patch level 2025.01
+* Fully rebased on top of QPR1 
+* Synced with latest sources
+* Updated translations
+* Some other fixes and improvements
+
 ===== 19-12-2024 =====
 
 * Initial crDroid 11 stable release
